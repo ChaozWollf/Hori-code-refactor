@@ -56,7 +56,7 @@ p {
     height: 100%;
     width: 100%;
     background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: 2000px 1500px;
+    background-size: 2000px 1000px;
     background-repeat: no-repeat;
     background-position: top;
     margin-bottom: 1000px;
@@ -76,13 +76,13 @@ p {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
-    margin-top: 1532px
+    margin-top: 1032px
 }
 
 .benefits {
     margin-right: 20px;
-    margin-top: 1532px;
-    padding: 70px;
+    margin-top: 1032px;
+    padding: 10px;
     clear: both;
     float: right;
     width: 20%;
@@ -100,7 +100,7 @@ p {
 }
 
 
-
+/* put benefits h3 into one rule box */
 
 .benefit-lead h3,
 .benefit-brand h3,
@@ -111,6 +111,7 @@ font-size: 26px;
 }
 
 
+/* put benefit images into one rule box */
 
 .benefit-lead img,
 .benefit-brand img,
