@@ -34,11 +34,13 @@ body {
 
 .header div ul {
     list-style-type: none;
+    text-align: right;
 }
 
-.header div ul li {
+.header ul li {
     display: inline-block;
     margin-left: 25px;
+text-align: right;
 }
 
 a {
@@ -57,7 +59,6 @@ p {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
-border:red 10px solid
 }
 
 .float-left {
@@ -74,6 +75,7 @@ border:red 10px solid
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+    margin-top:800px
 }
 
 .benefits {
